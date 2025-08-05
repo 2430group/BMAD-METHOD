@@ -102,7 +102,7 @@ This single command handles:
 ### Alternative: Clone and Build
 
 ```bash
-git clone https://github.com/bmadcode/bmad-method.git
+git clone https://github.com/2430group/BMAD-METHOD.git
 npm run install:bmad # build and install all to a destination folder
 ```
 
